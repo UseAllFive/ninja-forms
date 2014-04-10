@@ -1,0 +1,8 @@
+{
+	"name": "useallfive/ninja-forms",
+	"type": "wordpress-plugin",
+	"description": "Ninja Forms",
+	"keywords":[],
+	"homepage":"https://github.com/UseAllFive/ninja-forms",
+	"license":"proprietary"
+}
